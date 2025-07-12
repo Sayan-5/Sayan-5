@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sayan-5
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning java script
+- 🌱 I’m currently learning react.js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me contact me - sayan232004@gmail.com
 - 😄 Pronouns: ...
